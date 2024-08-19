@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/c71ee524-a946-44f0-8c1a-9b9aaf92d7f8" alt="Project Banner">
 
   <br />
-
+  <br />
   <div>
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
